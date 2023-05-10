@@ -1,0 +1,5 @@
+export const GET_CODES = "GET_CODES"
+export const CREATE_CODES ="CREATE_CODES"
+export const UPDATE_CODES= "UPDATE_CODES"
+export const GET_CODE_BYID="GET_CODE_BYID"
+export const DELETE_CODES="DELETE_CODES"
